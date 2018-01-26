@@ -10,5 +10,7 @@ inr main(int argc ,char *argv[])
     printf("guanmin\n");
 
     printf("xianghaiqin");
+
+    xxxxxxxxxxxxxxx;
     return 0;
 }
